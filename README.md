@@ -12,8 +12,6 @@ If it's your first time, you'll get a random personality type like **“Explorer
 
 ---
 
----
-
 ## 🧠 Tech Stack
 
 | Layer        | Technology     |
